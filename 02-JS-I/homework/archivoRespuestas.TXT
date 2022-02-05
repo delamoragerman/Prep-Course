@@ -1,0 +1,16 @@
+
+Variables: Las variables sirven para guardar informacion que mas adelante vamos a querer o necesitar usar. Es como un plato vacio que dejo en la mesa para servirme si luego tengo hambre.
+
+Strings: Un string es un tipo de dato. Son caracteres que pueden formar cadenas de texto. Siempre van encerradas entre comillas.
+
+Funciones: Las funciones son un bloque de codigo diseñado para que realice una tarea especifica y podamos reutilizar codigo sin tener que repetirlo. Esto es gracias a que en lugar de tener que reescribir todo el codigo que se ejecuta dentro de la misma, lo hacemos simplemente con llamar a la funcion que queremos ejecutar.
+Las funciones tienen argumentos, estos son valores de entrada que le pasamos a la misma. Una funcion puede o no tener argumentos.
+Dentro de las funciones podemos utilizar la palabra reservada "return" para que nos devuelva un valor de la ejecucion del codigo que hay dentro de una funcion. Al ejecutar return, el codigo se corta ahi mismo y todo lo que esta por debajo deja de ejecutarse.
+
+Declaraciones if: Esto es un condicional. Tenemos if y else, que son las mas utilizadas comunmente. Una condicional funciona de la siguiente manera: Queremos que se ejecute un bloque de codigo si tal condicion se cumple, y si no se cumple, se ejecuta otro bloque de codigo. 
+Mas simple seria: Quiero un telefono nuevo. Si apruevo todas las materias y paso de año seria la condicion a cumplirse para poder tener el telefono. Y si no se cumple, no me lo compran.
+
+Valores boolneanos: Es un tipo de dato. Puede tener dos valores: true, o false. 
+
+
+
