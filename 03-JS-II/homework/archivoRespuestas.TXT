@@ -1,0 +1,9 @@
+
+For: Esto es un bucle de algunos que encontramos en las estructuras de control. Se usa para repetir una o mas instrucciones un determinado numero de veces.
+De entre todos los bucles, el "for" se usa cuando sabemos seguro el numero de veces que queremos que el codigo se ejecute.
+
+Operadores && || y ! : Estos son operadores logicos. 
+Tenemos el AND o Y que se usa cuando queremos que evalue dos expreciones y tienen que ser ambas iguales para que devuelva TRUE. Se representa mediante los caracteres &&
+Tambien tenemos el OR u o que se usa para evaluar si una de las expresiones es verdadera. os devolvera un TRUE si una o ambas expreciones son TRUE. Se representa mediante los caracteres ||
+Y otro operador es el NOT o de negacion. Este devuelve TRUE O FALSE, depende a la expresion que vamos a querer evaluar, sera lo contrario. Se representa mediante el caracter !
+ 
