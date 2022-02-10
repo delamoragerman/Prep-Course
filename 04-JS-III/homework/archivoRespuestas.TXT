@@ -1,0 +1,2 @@
+
+Array: El ARRAY (arreglo) funciona como si fuera una variable, pero en donde se pueden almacenar grupos o conjuntos de elementos. Osea es como una variable, donde se pueden guardar varios elementos.
